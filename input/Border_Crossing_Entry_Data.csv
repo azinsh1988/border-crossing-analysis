@@ -1,1 +1,26 @@
-
+Port Name,State,Port Code,Border,Date,Measure,Value
+Alexandria Bay,NY,708,US-Canada Border,12/1/2019,Bus Passengers,740
+Baudette,MN,3424,US-Canada Border,12/1/2019,Bus Passengers,83
+Blaine,WA,3004,US-Canada Border,12/1/2019,Bus Passengers,17029
+Brownsville,TX,2301,US-Mexico Border,12/1/2019,Bus Passengers,4668
+Buffalo-Niagara Falls,NY,901,US-Canada Border,12/1/2019,Bus Passengers,9910
+Calais,ME,115,US-Canada Border,12/1/2019,Bus Passengers,279
+Calexico East,CA,2507,US-Mexico Border,12/1/2019,Bus Passengers,4080
+Champlain-Rouses Point,NY,712,US-Canada Border,12/1/2019,Bus Passengers,22612
+Columbus,NM,2406,US-Mexico Border,12/1/2019,Bus Passengers,1452
+Derby Line,VT,209,US-Canada Border,12/1/2019,Bus Passengers,2016
+Detroit,MI,3801,US-Canada Border,12/1/2019,Bus Passengers,7836
+Douglas,AZ,2601,US-Mexico Border,12/1/2019,Bus Passengers,107
+Dunseith,ND,3422,US-Canada Border,12/1/2019,Bus Passengers,76
+Eagle Pass,TX,2303,US-Mexico Border,12/1/2019,Bus Passengers,8525
+El Paso,TX,2402,US-Mexico Border,12/1/2019,Bus Passengers,39745
+Frontier,WA,3020,US-Canada Border,12/1/2019,Bus Passengers,214
+Grand Portage,MN,3613,US-Canada Border,12/1/2019,Bus Passengers,563
+Hansboro,ND,3415,US-Canada Border,12/1/2019,Bus Passengers,50
+Hidalgo,TX,2305,US-Mexico Border,12/1/2019,Bus Passengers,26540
+Highgate Springs-Alburg,VT,212,US-Canada Border,12/1/2019,Bus Passengers,4784
+Houlton,ME,106,US-Canada Border,12/1/2019,Bus Passengers,304
+International Falls-Ranier,MN,3604,US-Canada Border,12/1/2019,Bus Passengers,435
+Jackman,ME,104,US-Canada Border,12/1/2019,Bus Passengers,34
+Laredo,TX,2304,US-Mexico Border,12/1/2019,Bus Passengers,81239
+Laurier,WA,3016,US-Canada Border,12/1/2019,Bus Passengers,105
