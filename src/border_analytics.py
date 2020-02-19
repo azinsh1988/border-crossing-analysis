@@ -1,4 +1,4 @@
-def myOpenCSV(csv_file_directory, date_index=0):
+def srtByDate(csv_file_directory, date_index=0):
     with open(csv_file_directory, 'r') as f:
         #read from csv line by line, rstrip helps to remove '\n' at the end of line
         lines = [line.rstrip() for line in f] 
@@ -17,5 +17,5 @@ def myOpenCSV(csv_file_directory, date_index=0):
       
 if __name__ == '__main__':
     try:
-        myOpenCSV(csv_file_directory, date_index=0)
+        srtByDate(input/Border_Crossing_Entry_Data.csv, date_index=0)
 
